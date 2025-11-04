@@ -1,0 +1,4 @@
+instaloader==4.13.1
+pytelegrambotapi==4.22.1
+Pillow==10.3.0
+python-dotenv==1.0.1
